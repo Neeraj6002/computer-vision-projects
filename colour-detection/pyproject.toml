@@ -1,0 +1,8 @@
+[project]
+name = "colour-detection"
+version = "0.1.0"
+requires-python = ">=3.13"
+dependencies = [
+    "opencv-python>=5.0.0.93",
+    "pillow>=12.3.0",
+]
