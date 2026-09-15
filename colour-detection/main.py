@@ -10,6 +10,7 @@ cap = cv2.VideoCapture(0)
 orange = [0, 165, 255]
 
 
+
 while True:
 
     ret, frame = cap.read()
